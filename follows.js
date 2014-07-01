@@ -12,6 +12,7 @@
 		hideForm		= 0;
 	*/
 
+
 	var 	defaultKey	= 'QIwjfREYOb42dno1sqaRE32o1aqUHy3qFHPSArinB1hEuiOk', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [466998777], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Adam - Home Temperature', // Replaces Xively logo in the header
